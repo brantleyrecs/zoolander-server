@@ -1,6 +1,8 @@
 # Rare Server
 <!-- TODO: Add a description of the Rare application -->
 
+Didnt do anything on this. Havent started this class yet
+
 ## Getting Started:
 1. Run `pipenv shell` to start the virtual environment
 1. Run `pipenv install` to install the dependencies
